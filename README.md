@@ -33,7 +33,7 @@ Follow these steps to set up the project locally:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/priya-anto-31/VoiceVIVA.git
+    git clone https://github.com/Neha2003Davis/VoiceVIVA.git
     ```
 2. **Navigate to the project directory:**
     ```bash
